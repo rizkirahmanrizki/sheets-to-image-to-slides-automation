@@ -117,9 +117,3 @@ This project demonstrates:
 * API usage (Google services)
 * data-to-visual transformation
 * scalable reporting workflows
-
----
-
-# 📜 License
-
-MIT
